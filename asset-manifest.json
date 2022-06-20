@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Yassine-Portfolio/static/css/main.c9d6d613.css",
+    "main.css": "/Yassine-Portfolio/static/css/main.1fd33241.css",
     "main.js": "/Yassine-Portfolio/static/js/main.95d92f6c.js",
     "static/media/projet3.png": "/Yassine-Portfolio/static/media/projet3.a116ded877ac20c10d46.png",
     "static/media/projet4.png": "/Yassine-Portfolio/static/media/projet4.14ca4532fb22183cdd58.png",
@@ -8,11 +8,11 @@
     "static/media/projet2.png": "/Yassine-Portfolio/static/media/projet2.51717b31d08857cda5a2.png",
     "static/media/landing.jpg": "/Yassine-Portfolio/static/media/landing.63e047c2d470a7b8be97.jpg",
     "index.html": "/Yassine-Portfolio/index.html",
-    "main.c9d6d613.css.map": "/Yassine-Portfolio/static/css/main.c9d6d613.css.map",
+    "main.1fd33241.css.map": "/Yassine-Portfolio/static/css/main.1fd33241.css.map",
     "main.95d92f6c.js.map": "/Yassine-Portfolio/static/js/main.95d92f6c.js.map"
   },
   "entrypoints": [
-    "static/css/main.c9d6d613.css",
+    "static/css/main.1fd33241.css",
     "static/js/main.95d92f6c.js"
   ]
 }
